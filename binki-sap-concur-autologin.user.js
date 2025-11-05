@@ -3,6 +3,7 @@
 // @version 1.0.0
 // @homepageURL https://github.com/binki/binki-sap-concur-autologin
 // @match https://www.concursolutions.com/*
+// @match https://*.concursolutions.com/*
 // @require https://github.com/binki/binki-userscript-when-element-query-selector-async/raw/0a9c204bdc304a9e82f1c31d090fdfdf7b554930/binki-userscript-when-element-query-selector-async.js
 // @require https://github.com/binki/binki-userscript-when-input-completed/raw/d11bfc5021cb99fd80d5a2d008ffd4c7eabaf554/binki-userscript-when-input-completed.js
 // ==/UserScript==
