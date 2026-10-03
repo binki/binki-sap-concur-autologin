@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name binki-sap-concur-autologin
-// @version 1.0.1
+// @version 1.0.2
 // @homepageURL https://github.com/binki/binki-sap-concur-autologin
 // @match https://www.concursolutions.com/*
 // @match https://*.concursolutions.com/*
